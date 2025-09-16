@@ -27,8 +27,7 @@ _A solution for enhancing tourist safety using AI, Geo-Fencing, and Blockchain-b
 - 💻 **Source Code:** [GitHub Repository](https://github.com/ifrashadab/SafeTrail)  
 
 ---
-### To deploy this project locally, please visit the GitHub repository and follow the provided instructions.
-
+### To deploy this project locally and learn more about it, visit the GitHub repository and follow the provided instructions.
 ---
 
 
