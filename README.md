@@ -7,7 +7,7 @@ _A solution for enhancing tourist safety using AI, Geo-Fencing, and Blockchain-b
 ---
 
 ## 🧑‍🤝‍🧑 Team Details
-**Team Name:** SINISTER SIX
+**Team Name:** SINISTER SIX<br>
 **Team Leader:** [ARYANKUMAR1310](https://github.com/ARYANKUMAR1310)  
 
 **Team Members:**  
