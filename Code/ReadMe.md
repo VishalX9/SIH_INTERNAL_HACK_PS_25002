@@ -25,27 +25,25 @@
 ### Local Setup Instructions
 Follow these steps to set up the project locally:  
 
-### 1️⃣ Clone or Download the Repository  
+### 1. Clone or Download the Repository  
+
 Clone with Git:
 
-git clone https://github.com/ifrashadab/SafeTrail.git
-
-cd SafeTrail
-
+git clone https://github.com/VishalX9/SafeTrail.git<br>
+cd SafeTrail<br>
 Or download as a ZIP from the green “Code” button on GitHub and extract it.
 
-### 2️⃣ Install Dependencies
-Make sure you have Node.js (>=18) installed.
+### 2. Install Dependencies
+Make sure you have Node.js installed.
 
-npm install
+npm install in the terminal of downloaded folder 
 
-### 3️⃣ Run the Development Server
+### 3. Run the Development Server
+
 npm run dev
 
-### 4️⃣ Open in Browser
-
-  The app will be available at:
-👉 http://localhost:5001
+### 4. Open in Browser
+By default, the app will be available at: http://127.0.0.1:5001
 
 ### 5️⃣ Live Deployment
-🌐  [SafeTrail on Render](https://safetrail-2.onrender.com/)
+🌐  [SafeTrail on Render](https://safetrail-3.onrender.com/)
