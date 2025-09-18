@@ -21,8 +21,8 @@ _A solution for enhancing tourist safety using AI, Geo-Fencing, and Blockchain-b
 ---
 
 ## 🔗 Project Links
-- 📑 **SIH Presentation:** [Final SIH Presentation](URL_TO_PPT)  
-- 🎥 **Video Demonstration:** [Watch Video](UNLISTED_YOUTUBE_LINK)  
+- 📑 **SIH Presentation:** [Final SIH Presentation]([URL_TO_PPT](https://drive.google.com/file/d/1zxmc01uznV-wZtDruQHfdkmeyWkjQvg6/view?usp=sharing)  
+- 🎥 **Video Demonstration:** [Watch Video](https://www.youtube.com/playlist?list=PLOFt6170_U28hVMyHTXjUCvu17FmnsbNL)
 - 🚀 **Live Deployment:** [View Deployment](https://safetrail-3.onrender.com/)
 - 💻 **Source Code:** [GitHub Repository](https://github.com/VishalX9/SafeTrail/tree/main)  
 
