@@ -32,7 +32,7 @@ Key Features:
 ---
 
 ## 🔗 Project Links
-- 📑 **SIH Presentation:** [Final SIH Presentation][URL_TO_PPT](https://drive.google.com/file/d/1lgSzV9ICjbqbNyH4O_oK-oa5AxcDl8sh/view?usp=sharing)  
+- 📑 **SIH Presentation:** [Final SIH Presentation][URL_TO_PPT](https://drive.google.com/file/d/1FvEyA0yQI0o7w5tvf1ASvY1rWEcSa2MO/view?usp=sharing)  
 - 🎥 **Video Demonstration:** [Watch Video](https://youtu.be/9FAkUDYBtpQ?si=ltElWSzzxyoFl0TW)
 - 🚀 **Live Deployment:** [View Deployment](https://safetrail-3.onrender.com/)
 - 💻 **Source Code:** [GitHub Repository](https://github.com/VishalX9/SafeTrail/tree/main)  
