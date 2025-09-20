@@ -2,8 +2,7 @@
 
 
 # Smart Tourist Safety Monitoring & Incident Response System  
-SafeTrail: Blockchain-based Tourist Identity & Safety Platform
-SafeTrail generates a tamper-proof digital Tourist ID at trusted checkpoints like immigration, IRCTC, hotels, airlines, and toll booths. The ID is stored on blockchain and securely shared with tourists via SMS/email for login.
+SafeTrail: Blockchain-based Tourist Identity & Safety Platform, which generates a tamper-proof digital Tourist ID at trusted checkpoints like immigration, IRCTC, hotels, airlines, and toll booths. The ID is stored on blockchain and securely shared with tourists via SMS/email for login.
 
 Key Features:
 1. Verified Tourist ID → issued only at official checkpoints, ensuring authenticity.
