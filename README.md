@@ -1,8 +1,20 @@
-# SIH_INTERNAL_HACK_PS_25002
+# PS - 25002
 
 
 # Smart Tourist Safety Monitoring & Incident Response System  
-_A solution for enhancing tourist safety using AI, Geo-Fencing, and Blockchain-based Digital ID_
+_SafeTrail: Blockchain-based Tourist Identity & Safety Platform
+SafeTrail generates a tamper-proof digital Tourist ID at trusted checkpoints like immigration, IRCTC, hotels, airlines, and toll booths. The ID is stored on blockchain and securely shared with tourists via SMS/email for login.
+
+Key Features:
+1. Verified Tourist ID → issued only at official checkpoints, ensuring authenticity.
+2. Panic Button → instantly shares live location + ID with authorities for rescue.
+3. Multilingual Support → interface and emergency communication in local + global languages.
+4. Live Safety Map → real-time map of safe/unsafe zones, alerts, and crowd insights.
+5. AI-based Anomaly Detection → flags unusual activity or scams to protect tourists.
+6. Travellers Connect → verified tourists can connect safely with others nearby.
+7. Lost & Found Support → link lost items with tourist ID for faster recovery.
+8. Medical Support → pre-filled health info and emergency contacts accessible during crises.
+9. Data for Governance → anonymized insights improve tourism policy & infrastructure_
 
 ---
 
